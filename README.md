@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ X ] Game cards have a small grow animation when they're hovered over!
+* [X] Game cards have a small grow animation when they're hovered over!
 
 ## Video Walkthrough
 
